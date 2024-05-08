@@ -6,7 +6,7 @@ In today's fast-paced world, access to accurate medical information is crucial. 
 ## How to set up <br>
 1. Clone this repository (git clone https://github.com/AI-WIZARDS/medigenius.git)
 2. Upload the .ipynb file on Jupyter notebook or Google Colab.
-3. install all the necessary libraries. 
+3. Install all the necessary libraries. 
 4. In line 29 add your openai api key os.environ["OPENAI_API_KEY"] = "OPENAI_API_KEY"
 5. Follow this link to setup MongoDB atlas vector search https://www.youtube.com/watch?v=daMxiBS0odk
 6. Set up your environment variable MONGO_URI = mongodb+srv://<username>:<password>@cluster0.ykky60z.mongodb.net/
