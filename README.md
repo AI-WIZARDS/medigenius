@@ -1,15 +1,10 @@
 # Medi-Genius
 
-#App Demo
+##App Demo
 <br>
 
 
-https://github.com/AI-WIZARDS/medigenius/assets/54498354/d571b523-3a78-430b-9a8b-f91b30df4c47
-
-
-
-
-
+https://github.com/AI-WIZARDS/medigenius/assets/54498354/e45aa103-da07-488f-b8c4-1e5df5df4f35
 
 
 ## Introduction <br>
