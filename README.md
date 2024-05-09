@@ -2,7 +2,11 @@
 
 #App Demo
 <br>
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://github.com/AI-WIZARDS/medigenius/assets/54498354/1c522f88-7919-4c2f-9438-4bf72474f0c8))
+
+
+https://github.com/AI-WIZARDS/medigenius/assets/54498354/d571b523-3a78-430b-9a8b-f91b30df4c47
+
+
 
 
 
